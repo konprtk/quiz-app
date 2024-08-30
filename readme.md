@@ -4,7 +4,7 @@
 
 The Simple Quiz App is a basic web-based quiz application that fetches questions from an API and presents them to the user. It includes features such as answering questions, keeping track of scores, and retrying to fetch questions in case of failure.
 
-## Live Project Link: [Quiz App](https://konprtk.me/quiz-app/)
+## Live Project Link: [Quiz App](https://konprtk.me/quiz-app)
 
 ## Features
 
