@@ -28,7 +28,7 @@ const MAX_RETRIES = 3; // Maximum number of retry attempts
 async function fetchQuestions(retries = MAX_RETRIES) {
   try {
     const response = await fetch(
-      `https://opentdb.com/api.php?amount=5&category=${category.animal}&type=multiple`
+      `https://opentdb.com/api.php?amount=5&category=${category.computers}&type=multiple`
     );
 
     if (!response.ok) {
